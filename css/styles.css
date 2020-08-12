@@ -1,0 +1,63 @@
+body {
+  background-color: hsl(257, 40%, 49%);
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+}
+
+/* logo */
+.logo {
+  width: 15%;
+  position: absolute;
+  z-index: 1;
+  top: 5%;
+  left: 5%;
+}
+
+/* description section */
+#description {
+  margin: 11% 5% 0;
+  margin-bottom: 0;
+  text-align: left;
+  line-height: 1.5;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+}
+
+.right {
+  box-sizing: border-box;
+  padding-top: 3%;
+}
+
+.build {
+  margin-bottom: 3%;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.btn {
+  border-radius: 100px;
+  padding: 2% 10%;
+  font-size: 15px;
+  font-weight: bold;
+  color: #726a95;
+  margin-top: 1%;
+  box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.para {
+  color: #e1ccec;
+  font-family: 'Open Sans';
+  line-height: 1.5;
+}
+i {
+  border: 1px solid;
+  border-radius: 100%;
+  padding: 10px;
+  margin: 0 5px;
+}
+.bottom-pic {
+  position: absolute;
+  right: 1%;
+  padding-top: 100px;
+}
